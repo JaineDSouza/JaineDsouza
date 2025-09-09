@@ -1,10 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Jaíne!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 **DevOps Engineer | Linux Enthusiast | Cloud & Automation Lover**  
+
+---
+
+## 🚀 Sobre mim  
+- 💻 Trabalho com **Linux, Terraform, Kubernetes, Ansible** e outras ferramentas do mundo **DevOps**.  
+- 📚 Apaixonada por **tecnologia**, mas também por **livros, esportes e animais**.  
+- 🎮 No tempo livre, você me encontra explorando mundos nos **video games**.  
+- 🐾 Defensora de bichinhos e da vida saudável, sempre equilibrando **tech + bem-estar**.  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=radical)  
+
+</div>
