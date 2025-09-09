@@ -16,7 +16,7 @@
 
 <div align="center">
   
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=radical)  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=JaineDsouza&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JaineDsouza&layout=compact&theme=radical)  
 
 </div>
