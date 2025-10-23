@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Jaíne!  
 
-🌱 **DevOps Engineer | Linux Enthusiast | Cloud & Automation Lover**  
+🌱 **DevOps Engineer | Linux | Cloud**  
 
 ---
 
